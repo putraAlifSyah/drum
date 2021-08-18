@@ -9,6 +9,12 @@ body{
     align-items: center;
 }
 
+div p{
+    color: #ffc600;
+    font-size: 18px;
+    margin-top: 2px;
+}
+
 .kotak{
     height: 50px;
     width: 70px;
